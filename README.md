@@ -1,4 +1,5 @@
-Hello 👋🏻 
+Hi there 👋🏻
 
-I am a frontend web developer passionate about building intuitive interfaces.
-In my free time, I enjoy [3D modeling](https://www.artstation.com/one_eyri), and bringing my designs to life through [3D printing](https://www.thingiverse.com/m9iv/designs).
+I’m a frontend developer, currently focusing on React, TypeScript, and Tailwind. I enjoy building clean, intuitive interfaces with smart UX.
+
+In my free time, I like 3D modeling (my own [projects for 3D printing](https://www.thingiverse.com/m9iv/designs), and sometimes [environments and props](https://www.artstation.com/one_eyri)). I’m also learning how to play chess.
